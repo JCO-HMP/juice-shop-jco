@@ -25,4 +25,4 @@ jobs:
       with:
        context: 
        push: true
-       tags: ""/juice-shop-jco:latest
+       tags: JCO-HMP/juice-shop-jco:latest
