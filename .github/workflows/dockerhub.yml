@@ -25,4 +25,4 @@ jobs:
       with:
        context: 
        push: true
-       tags: https://github.com/JCO-HMP/juice-shop-jco:latest
+       tags: ${{ secrets.DOCKERHUB_USERNAME }}/juice-shop-jco:latest
